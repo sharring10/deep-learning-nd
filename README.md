@@ -10,3 +10,5 @@ Projects:
    * Use a Recurrent Neural Network (RNN) to generate new scripts for The Simpsons.  
 4. Translate a Language  
    * Use a Sequence-to-Sequence RNN to translate sentences from English to French.  
+5. Face Generation
+   * Use generative adversarial networks (GANs) to generate new images of faces.
